@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern_main.iml" group="singleton-pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton-pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton-pattern_test.iml" group="singleton-pattern" />
+    </modules>
+  </component>
+</project>
